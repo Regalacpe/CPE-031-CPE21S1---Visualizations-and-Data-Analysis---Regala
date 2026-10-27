@@ -1,10 +1,18 @@
-# CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Regala
+# CPE-031-CPE21S1---Visualizations-and-Data-Analysis
+
+## Description of course: 
+This course is about transforming data into meaningful visual insights that help people understand, communicate, and make informed decisions.
 
 
-Course: CPE-031 Visualizations-and-Data-Analysis
 
-Description of course: This course is about transforming data into meaningful visual insights that help people understand, communicate, and make informed decisions.
 
-Name: Regala, Joaquin Luiz B.
+--- 
 
-Section: CPE21S1
+
+### Student info:
+NAME: Regala, Joaquin Luiz B.
+DATE OF BIRTH: February 06 2007
+CURRENT AGE: 19
+PROGRAM: BSCPE
+SECTION: CPE21S1
+
