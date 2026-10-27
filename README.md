@@ -9,10 +9,12 @@ This course is about transforming data into meaningful visual insights that help
 --- 
 
 
-### Student info:
-NAME: Regala, Joaquin Luiz B.
-DATE OF BIRTH: February 06 2007
-CURRENT AGE: 19
-PROGRAM: BSCPE
-SECTION: CPE21S1
+### Student information
+NAME: Regala, Joaquin Luiz B. \
+
+DATE OF BIRTH: February 06 2007 \
+
+CURRENT AGE: 19 \
+PROGRAM: BSCPE \ 
+SECTION: CPE21S1 \ 
 
